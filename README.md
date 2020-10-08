@@ -7,7 +7,7 @@ The program is a Chess Game made in Java 1.8 using OOPM concepts.
 ### Screenshots
 Screenshot 1             |  Screenshot 2 | Screenshot 3
 :-------------------------:|:-------------------------: |:-------------------------:
-![](screenshots/chess 1.png)  |  ![](screenshots/chess 2.png) |  ![](screenshots/chess 3.png) 
+![](screenshots/chess1.png)  |  ![](screenshots/chess2.png) |  ![](screenshots/chess3.png) 
 
 
 ## Requirements
