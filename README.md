@@ -35,7 +35,6 @@ After downloading the repository, you must run **Chess Game** folder in any IDE 
 ## Team
 |  **Nivya Jomichan** | **Shivang Medhekar** |
 | :---: |:---:|
-| (https://github.com/nivyajomichan) | (https://github.com/shivangmedhekar) | 
 |<img src = "https://avatars1.githubusercontent.com/u/69161388?s=400&u=9dd47f3f19ab7e99f8938ee1669a2f9b26c1bbae&v=4" width="200" height="200">| 
 |<img src = "https://avatars2.githubusercontent.com/u/69140290?s=200&u=5df35a82b6d2b6b7b876dfdc22d451c92d30a5c6&v=4" width="200" height="200">
 |  <a href="https://github.com/nivyajomichan" target="_blank">`github.com/nivyajomichan`</a> |<a href="https://github.com/shivangmedhekar" target="_blank">`github.com/shivangmedhekar`</a> |
