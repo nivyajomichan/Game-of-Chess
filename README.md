@@ -5,9 +5,9 @@ The following project is created by us for MU Course of Object Oriented Programm
 The program is a Chess Game made in Java 1.8 using OOPM concepts.
 
 ### Screenshots
-Screenshot 1             |  Screenshot 2 | Screenshot 3
+Screenshot 1 |  Screenshot 2 | Screenshot 3
 :-------------------------:|:-------------------------: |:-------------------------:
-![](screenshots/chess1.png)  |  ![](screenshots/chess2.png) |  ![](screenshots/chess3.png) 
+![](Screenshots/chess%201.png)  |  ![](Screenshots/chess%202.png) |  ![](Screenshots/chess%203.png) 
 
 
 ## Requirements
